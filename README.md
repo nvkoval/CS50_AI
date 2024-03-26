@@ -6,3 +6,4 @@
 
 - Projects for Week 1 Knowledge
     - [Knights](https://github.com/nvkoval/CS50_AI/tree/main/knights)
+    - [Minesweeper](https://github.com/nvkoval/CS50_AI/tree/main/minesweeper)
